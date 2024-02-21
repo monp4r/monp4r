@@ -1,7 +1,5 @@
-<!--
-![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
-![ViewCount](http://bit.ly/Thomas-Github-Visits)
--->
+![License](https://img.shields.io/github/license/monp4r/monp4r?style=flat)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonp4r%2Fmonp4r&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 
 ### Hi there, I'm Juan Francisco Montero 👋
 
