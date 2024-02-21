@@ -14,7 +14,6 @@ Currently, I'm actively **looking for internship opportunities** as part of my d
 
 ### My skills include
 
-
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img></a>
