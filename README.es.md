@@ -70,9 +70,6 @@ Actualmente, estoy **buscando activamente oportunidades de prácticas profesiona
    <br>
    <br>
    <a target="_blank" href="https://www.linkedin.com/in/monp4r"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-   <a target="_blank" href="mailto:m0np4r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
-   <a target="_blank" href="https://open.spotify.com/user/juanfranmontero23.alk?si=4494cce9928d4f33"><img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white"></img></a> 
-   
-   
+   <a target="_blank" href="mailto:m0np4r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>    
    <br>
 </p>
