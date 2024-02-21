@@ -14,6 +14,19 @@ Currently, I'm actively **looking for internship opportunities** as part of my d
 
 ### My skills include
 
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"></img></a>
+
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"></img></a>
+
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white"></img></a>
@@ -26,22 +39,6 @@ Currently, I'm actively **looking for internship opportunities** as part of my d
 <a target="_blank" href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></img></a>
-
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"></img></a>
-
-
-
-
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"></img></a>
 
 <a target="_blank" href=""><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"></img></a>
