@@ -28,7 +28,7 @@ Currently, I'm actively **looking for internship opportunities** as part of my d
 <a target="_blank" href=""><img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"></img></a>
 
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white"></img></a>
 
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img></a>
