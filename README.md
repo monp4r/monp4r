@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Juan Francisco Montero 👋
 
-I'm a Maths and Software Engineering student, passionate about Cibersecurity 🛡️ and Full-Stack Development 📚. I enjoy securing and building scalable applications, improving and optimizing processes. Additionally, I have an interest in exploring vulnerabilities in weak websites to enhance their security.
+I'm a Mathematics and Software Engineering student, passionate about Cibersecurity 🛡️ and Full-Stack Development 📚. I enjoy securing and building scalable applications, improving and optimizing processes. Additionally, I have an interest in exploring vulnerabilities in weak websites to enhance their security.
 
 - 🌱 As I said before, I'm currently pursuing **Double Degree in Software Engineering and Mathematics at the University of Valladolid**.
 - ⚡ **Fun fact:** I **strongly** believe in the *Butterfly Effect*: Tiny actions can wield mighty consequences. Just as a butterfly's wings shape distant weather patterns, I recognize the deep link between everyday choices and enduring impacts. 🦋
