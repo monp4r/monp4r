@@ -46,15 +46,9 @@ I'm a Mathematics and Software Engineering student, passionate about Cibersecuri
 <a target="_blank" href=""><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></img></a>
 
-
-
 <hr>
 <p align="center">
    <i>Success is not final, failure is not fatal: It is the courage to continue that counts.</i>
    <br>
    <i>Winston S. Churchill</i>
-   <br>
-   <br>   
-   <br>  
-   <br>
 </p>       
