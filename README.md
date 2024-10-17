@@ -5,7 +5,6 @@
 
 I'm a Mathematics and Software Engineering student, passionate about Cibersecurity 🛡️.
 
-- 🌱 As I said before, I'm currently pursuing **Double Degree in Software Engineering and Mathematics at 🍇**.
 - ⚡ **Fun fact:** I **strongly** believe in the *Butterfly Effect*: Tiny actions can wield mighty consequences. Just as a butterfly's wings shape distant weather patterns, I recognize the deep link between everyday choices and enduring impacts. 🦋
 - :bulb: I'm interested in the latest technologies in IT: **Cybersecurity, Cloud, Machine Learning and Web Development**.
 - 💬 Talk to me about Formula 1 :racing_car:, Padel, Memes, Movies 🎥, games like GTA VI and DS2 🎮, ...
